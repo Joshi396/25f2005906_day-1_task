@@ -1,6 +1,6 @@
 "Daily Task Management System"
 
-Student Name: Joshi
+Student Name: JOSHI
 
 Student Email: 25f2005906@ds.study.iitm.ac.in
 
